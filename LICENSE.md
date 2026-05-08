@@ -1,4 +1,4 @@
-
+Enhance CleanMyMac X for macOS with CleanMyMac X for macOS new Utility - custom-actions and malware-scanner, the #1 utility. Includes custom-actions and malware-scanner for a
 
 
 
